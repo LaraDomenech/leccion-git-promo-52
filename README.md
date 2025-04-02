@@ -4,10 +4,9 @@ Leccion de Git de la promo 52
 ## Comandos
 
 Para clonar un repositorio de git, puedes usar siguiente comando:
-
-'''bash
+```bash
 git clone https://github.com/LaraDomenech/leccion-git-promo-52.git
-'''
+```
 
 Para subir ficheros a un repositorio:
 
